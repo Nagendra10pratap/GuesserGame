@@ -7,5 +7,7 @@ Computer tells if the guess number matches or it is higher/lower than the one it
 The game continues until the user guesses the computer number.
 # Installation
 . Just, Clone this repository -
-  https://github.com/Nagendra10pratap/GuesserGame.git.
+
+  https://github.com/Nagendra10pratap/GuesserGame.git
+  
 . Run File Using Any Java Application Like Eclipse IDE For Java Developer Visual Studio Code or Notepad.
